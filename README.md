@@ -3,6 +3,8 @@
 
 Авторы: изначально [Velind](https://www.youtube.com/@Velind), а доработали Ваня и Миша.
 
+За прогрессом можно следить [тут](https://github.com/0-Vanes-0/velind_darkest_dungeon2/milestones). 
+
 ## Установка
 1. Перейти [сюда](https://github.com/0-Vanes-0/velind_darkest_dungeon2/releases)
 2. Последний по дате релиз будет в самом вверху. Промотайте ниже и найдите .zip архив (не "Source code").
