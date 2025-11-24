@@ -1,5 +1,5 @@
 # Darkest Dungeon 2 ♂Right Version♂
-"Исправленный" перевод Darkest Dungeon 2 для версии 2.01.77442
+"Исправленный" перевод Darkest Dungeon 2 для версии 2.04.80648
 
 Авторы: изначально [Velind](https://www.youtube.com/@Velind), а доработали Ваня и Миша.
 
