@@ -45519,7 +45519,7 @@ msgid ""
 "Invert all <sprite name={q}token_weak{q}>,<sprite name={q}token_vulnerable{q}>,<sprite name={q}token_blind-line{q}>, or "
 "<sprite name={q}token_daze{q}> into <sprite name={q}token_strength{q}>,<sprite name={q}token_block{q}>,<sprite name={q}"
 "token_dodge{q}>, or <sprite name={q}token_speed{q}> respectively"
-msgstr "Обращает все метки одного из типов <sprite name={q}token_weak{q}><sprite name={q}token_vulnerable{q}><sprite name={q}token_blind-line{q}><sprite name={q}token_daze{q}> в <sprite name={q}token_strength{q}><sprite name={q}token_block{q}><sprite name={q}token_dodge{q}><sprite name={q}token_speed{q}> соответственно"
+msgstr "Обращает все метки одного из типов <sprite name={q}token_weak{q}><sprite name={q}token_vulnerable{q}><sprite name={q}token_blind-line{q}><sprite name={q}token_daze{q}>\n в <sprite name={q}token_strength{q}><sprite name={q}token_block{q}><sprite name={q}token_dodge{q}><sprite name={q}token_speed{q}> соответственно"
 
 #, fuzzy
 #| msgctxt "skill_desc_head_ves_heal"
@@ -45534,7 +45534,7 @@ msgid ""
 "<sprite name={q}token_daze{q}>, or <sprite name={q}token_stun{q}> into <sprite name={q}token_strength{q}>,<sprite "
 "name={q}token_deflect{q}>,<sprite name={q}token_dodge+{q}>,<sprite name={q}token_speed{q}> or <sprite name={q}"
 "token_speed{q}> respectively, then repeat for another token type."
-msgstr "Обращает все метки одного из типов <sprite name={q}token_weak{q}><sprite name={q}token_vulnerable{q}><sprite name={q}token_blind-line{q}><sprite name={q}token_daze{q}><sprite name={q}token_stun{q}> в <sprite name={q}token_strength{q}><sprite name={q}token_deflect{q}><sprite name={q}token_dodge+{q}><sprite name={q}token_speed{q}><sprite name={q}token_speed{q}> соответственно. Затем повторяет действие для другого типа меток."
+msgstr "Обращает все метки одного из типов <sprite name={q}token_weak{q}><sprite name={q}token_vulnerable{q}><sprite name={q}token_blind-line{q}><sprite name={q}token_daze{q}><sprite name={q}token_stun{q}>\n в <sprite name={q}token_strength{q}><sprite name={q}token_deflect{q}><sprite name={q}token_dodge+{q}><sprite name={q}token_speed{q}><sprite name={q}token_speed{q}> соответственно.\nЗатем повторяет действие для другого типа меток."
 
 msgctxt "effect_skill_remove_1_deaths_door_armor_override"
 msgid "Remove 1 <sprite name={q}token_deaths_door_armor{q}>"
@@ -116450,7 +116450,7 @@ msgstr "Кто дотянет до утра? Кто среди павших?"
 
 msgctxt "vo_kingdoms_general_map_open_07_0"
 msgid "Hardships be damned, the day is upon us."
-msgstr "К чёрту трудности, настал новый день."
+msgstr "К чёрту трудности, давайте играть в амонг ас."
 
 msgctxt "vo_kingdoms_general_map_open_08_0"
 msgid "Dig deep - find the mettle to meet this day's demands."
